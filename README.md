@@ -3,7 +3,7 @@
 
 This is a very simple example application for storing data in a local database using Node.js using only the local Wi-Fi network, not using the cloud. 
 
-You may prefer to use the [other example using the cloud] instead which also works with the Electron and through firewalls without 
+You may prefer to use the [other example using the cloud] (https://github.com/rickkas7/mysqlsample) instead which also works with the Electron and through firewalls without needing to specify the IP address of the server.
 
 The idea is that your Particle Photon or Electron is generating data. This example only uses local Wi-Fi and does not require an Internet or a cloud connection, which may be helpful in some applications.
 
